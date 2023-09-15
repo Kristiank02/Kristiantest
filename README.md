@@ -1,6 +1,3 @@
 # Kristiantest
 
-jknmij
-
-ok,oi,
-pø
+Git er pain, men prøver fordet.
